@@ -53,12 +53,6 @@ OS             →  Linux (Ubuntu/RHEL) | Windows
 
 ---
 
-## 📈 GitHub Stats
-
-![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for **DevOps Engineer / Cloud Engineer / SRE** roles.  
