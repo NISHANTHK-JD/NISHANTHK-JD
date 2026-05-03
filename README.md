@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Docker | Jenkins
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishanthkumar-janarthanam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishanthkumar-janarthanam-5a60b219a)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nishanthk211969@gmail.com)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/certification/)
 [![Azure](https://img.shields.io/badge/Azure-AZ--900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications/)
