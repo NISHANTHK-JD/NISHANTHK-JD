@@ -59,3 +59,4 @@ I'm actively looking for **DevOps Engineer / Cloud Engineer / SRE** roles.
 Open to full-time positions in Chennai, Bangalore, Hyderabad, or Remote.
 
 📧 nishanthk211969@gmail.com | 📱 +91-8870466580
+🔗 [LinkedIn](https://www.linkedin.com/in/nishanthkumar-janarthanam-5a60b219a)
