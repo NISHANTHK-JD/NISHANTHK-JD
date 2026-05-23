@@ -50,6 +50,7 @@ OS             →  Linux (Ubuntu/RHEL) | Windows
 |---|---|---|
 | AWS Cloud Practitioner | Amazon Web Services | ✅ Certified |
 | Azure Fundamentals (AZ-900) | Microsoft | ✅ Certified |
+| Claude Certified Foundation - Associate | Anthropic | ✅ Certified |
 | Azure AI Fundamentals (AI-900) | Microsoft | 🔄 In Progress |
 
 ---
