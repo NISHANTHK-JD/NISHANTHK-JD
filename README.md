@@ -6,6 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nishanthk211969@gmail.com)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/certification/)
 [![Azure](https://img.shields.io/badge/Azure-AZ--900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications/)
+[![Claude](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Foundation%20Associate-black?style=for-the-badge&logo=anthropic)](https://verify.skilljar.com/c/32niqy8h85xo)
 
 ---
 
